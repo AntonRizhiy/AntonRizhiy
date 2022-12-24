@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AntonRizhiy, I am 20 years old, glad to see you on my page.
+- 👋 Hi, I’m @AntonRizhiy, I am 21 years old, glad to see you on my page.
 - 👀 I’m interested in investing, financial literacy and a lot of things related to the philosophy of money, but I also get great pleasure from programming, I like to solve difficult problems and learn from other coders.
 - 🌱 I’m currently learning in Lviv, National University "Lviv Polytechnic", also in my free time I study programming and the IT world, Python top!
 - 💞️ I’m looking to collaborate on projects primarily for the sake of gaining experience and knowledge, various life hacks, advice. After all, knowledge is power!
